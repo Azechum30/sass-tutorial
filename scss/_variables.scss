@@ -1,0 +1,17 @@
+$font-stack: Poppins, Raleway, sans-serif;
+$primary-color: #333;
+$secondary-color: rgba(255, 255, 0, 0.6);
+$text-color: lighten($primary-color, 100%);
+$font-weights: (
+	"regular": 400,
+	"medium": 500,
+	"bold": 700,
+);
+
+$font-sizes: (
+	"fs-1": 80px,
+	"fs-2": 64px,
+	"fs-3": 48px,
+	"fs-4": 32px,
+	"fs-5": 16px,
+);
